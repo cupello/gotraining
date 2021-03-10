@@ -76,7 +76,7 @@ func printReflect(v interface{}) {
 // `interface{}`.
 //
 // This code more closely resembles the concrete implementations that we started
-// with and is easier to read than the reflect implementation. 
+// with and is easier to read than the reflect implementation.
 
 func print[T any](slice []T) {
 	fmt.Print("Generic: ")

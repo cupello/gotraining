@@ -60,6 +60,11 @@ There is a ton of links to extra reading and videos through out the material. Oc
 [Go’s History in Code](https://seh.dev/go-legacy/) - Sean Hinchee  
 [A Plea For Lean Software](https://cr.yp.to/bib/1995/wirth.pdf) - Niklaus Wirth  
 
+### Case Studies
+
+[Case Studies](https://go.dev/solutions#case-studies) - Go Team  
+[New Case Studies About Google’s Use of Go](https://opensource.googleblog.com/2020/08/new-case-studies-about-googles-use-of-go.html) - Rob Pike  
+
 ### Contribute to Go
 
 [Contributing to the Go project](https://blog.gopheracademy.com/advent-2016/contributing-to-the-go-project/) - Matt Layher  
@@ -76,7 +81,7 @@ There is a ton of links to extra reading and videos through out the material. Oc
 ### Assembly
 
 [Go Assembly by Example](http://davidwong.fr/goasm/) - David Wong  
-[Quick intro to Go assembly](https://blog.hackercat.ninja/post/quick_intro_to_go_assembly/)  
+[Quick intro to Go assembly](https://blog.hackercat.ninja/2018/quick_intro_to_go_assembly/)  
 [The Go low-level calling convention on x86-64](http://science.raphael.poss.name/go-calling-convention-x86-64.html) - Raphael ‘kena’ Poss  
 
 ### Buffer Bloat - 2011
@@ -342,6 +347,7 @@ This content can be found under [pointers](../topics/go/language/pointers). We f
 [Garbage Collection In Go : Part I - Semantics](https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html) - William Kennedy  
 [Garbage Collection In Go : Part II - GC Traces](https://www.ardanlabs.com/blog/2019/05/garbage-collection-in-go-part2-gctraces.html) - William Kennedy  
 [Garbage Collection In Go : Part III - GC Pacing](https://www.ardanlabs.com/blog/2019/07/garbage-collection-in-go-part3-gcpacing.html) - William Kennedy  
+[Go memory ballast: How I learnt to stop worrying and love the heap](https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2/) - Ross Engers  
 
 #### Escape Analysis and Inlining
 
@@ -393,7 +399,9 @@ https://godoc.org/golang.org/x/tools/go/ssa
 
 [Open issues for the upcoming release](https://dev.golang.org/release)
 
-[Go 1.14 Release Notes](https://golang.org/doc/go1.14) - 2020/02/26  
+[Go 1.16 Release Notes](https://golang.org/doc/go1.16) - 2021/02/16  
+[Go 1.15 Release Notes](https://golang.org/doc/go1.15) - 2020/08/11  
+[Go 1.14 Release Notes](https://golang.org/doc/go1.14) - 2020/02/25  
 [Go 1.13 Release Notes](https://golang.org/doc/go1.13) - 2019/09/03  
 [Go 1.12 Release Notes](https://golang.org/doc/go1.12) - 2019/02/25  
 [Go 1.11 Release Notes](https://golang.org/doc/go1.11) - 2018/08/24  
